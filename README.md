@@ -1,1 +1,3 @@
 # Webpage
+for this webpage i have created a brief guide on italy including a brief summary of its history leading up to World war 2 and places i would reccomend to visit and food to try
+for this webpage it has not been as difficult as it had been previously for me due to the fact that this is the third time i make a webpage but that does not mean that i did not run into some problems one of them was the organization and paths somthing i had ran into previously which is that copying the relative path would not make it so the formating would not appear this i have corrected by adding ..\ before the paths which allows for them to be called upon outside the local repository.
